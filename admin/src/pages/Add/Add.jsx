@@ -109,7 +109,7 @@ const Add = ({ url }) => {
               <option value="Vadapav">Vadapav</option>
               <option value="Bhel">Bhel</option>
               <option value="ColdDrinks">ColdDrinks</option>
-              <option value="Pure Veg">Pure Veg</option>
+              <option value="Bhaji">Bhaji</option>
               <option value="Pasta">Pasta</option>
               <option value="Noodles">Noodles</option>
             </select>
